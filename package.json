@@ -1,0 +1,41 @@
+{
+  "name": "backend",
+  "description": "backend server prototype",
+  "version": "1.1.0",
+  "homepage": "no page",
+  "author": {
+    "name": "Ignacio Ariza Victoria 2014",
+    "email": "ignacio.ariza@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.21"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "async": "0.2.9",
+    "express": "4.5.1",
+    "log4js": "0.6.9",
+    "moment": "2.5.1",
+    "mongodb": "^1.4.7",
+    "request": "2.29.0",
+    "revalidator": "0.1.5"
+  },
+  "devDependencies": {
+    "body-parser": "~1.0.0",
+    "method-override": "~1.0.0",
+    "mocha": "~1.13.0",
+    "morgan": "1.2.2",
+    "should": "2.0.2",
+    "sinon": "~1.7.3",
+    "sinon-chai": "2.4.0",
+    "stack-trace":"0.0.9"
+  },
+  "keywords": []
+}
