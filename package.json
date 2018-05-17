@@ -22,7 +22,7 @@
     "async": "0.2.9",
     "express": "4.5.1",
     "log4js": "0.6.9",
-    "moment": "2.5.1",
+    "moment": "2.19.3",
     "mongodb": "^1.4.7",
     "request": "2.29.0",
     "revalidator": "0.1.5"
