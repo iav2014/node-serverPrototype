@@ -24,7 +24,7 @@
     "log4js": "0.6.9",
     "moment": "2.19.3",
     "mongodb": "^1.4.7",
-    "request": "2.29.0",
+    "request": ">=2.68.0",
     "revalidator": "0.1.5"
   },
   "devDependencies": {
